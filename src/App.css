@@ -1,9 +1,20 @@
-/* Add styling for your page here */
-
-.App {
-
+h2{
+    font-size: large;
 }
 
-.BakeryItem {
-  
+.app{
+    max-width: 20rem;
+
+}
+.wrapper{
+    display:inline-flex;
+    justify-content: left;
+    text-align:left;
+    max-width: 7rem;
+    overflow-wrap: break-word;
+    justify-content: start;
+}
+
+img{
+    max-width: 8rem;
 }
